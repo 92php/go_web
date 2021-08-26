@@ -18,6 +18,17 @@ chapter1
 1.4-bool.go         //bool  
 1.4-map.go          //map  
 1.4-pointer-use.go  //pointer   
+1.4-slice.go        //slice  
+1.4-struct-pointer.go  //struct-pointer  
+1.4-func.go         //func  
+1.5-func-defer.go   //func-defer  
+1.5-func1.go        //func   
+1.5-func2.go        //func  
+  
+
+
+
+
 
  
 
