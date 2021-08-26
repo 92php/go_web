@@ -24,6 +24,9 @@ chapter1
 1.5-func-defer.go   //func-defer  
 1.5-func1.go        //func   
 1.5-func2.go        //func  
+1.6-object.go       //object  
+
+
   
 
 
