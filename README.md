@@ -25,6 +25,8 @@ chapter1
 1.5-func1.go        //func   
 1.5-func2.go        //func  
 1.6-object.go       //object  
+1.7-interface.go    //interface  
+1.7-interface1.go   //interface  
 
 
   
